@@ -258,7 +258,9 @@ int main() {
 ```
 # OUTPUT
 ![image](https://github.com/prabhjot-singh18/Ex-12-IMPLEMENTATION-OF-HEAP-STORAGE-ALLOCATION-STRATEGY/assets/121215854/0b46b812-f343-40aa-a486-9650af20cf5c)
+
 ![image](https://github.com/prabhjot-singh18/Ex-12-IMPLEMENTATION-OF-HEAP-STORAGE-ALLOCATION-STRATEGY/assets/121215854/5b454ad8-f2cc-43ba-8c84-88de74a2b783)
+
 ![image](https://github.com/prabhjot-singh18/Ex-12-IMPLEMENTATION-OF-HEAP-STORAGE-ALLOCATION-STRATEGY/assets/121215854/c6ec54e8-e0bd-476c-bd9f-ac39da0555d4)
 
 
